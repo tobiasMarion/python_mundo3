@@ -1,6 +1,6 @@
 # cabecalho
 print('=-' * 20)
-print(' ' * 15, 'Desafio 72', ' ' * 15)
+print(' ' * 15, 'Desafio 75', ' ' * 15)
 print('=-' * 20, '\n')
 
 numeros = (

@@ -11,3 +11,5 @@
     1. Quantas vezes apareceu o valor 9.
     2. Em que posição foi digitado o primeiro valor 3.
     3. Quais foram os números pares.
+76. Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+77. Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais
