@@ -29,3 +29,8 @@
     3. Se o valor 5 foi digitado e está ou não na lista.
 82. Crie um programa que vai ler vários números e colocar em uma lista. Depois disso, crie duas listas extras que vão conter apenas os valores pares e os valores ímpares digitados, respectivamente. Ao final, mostre o conteúdo das três listas geradas.
 83. Crie um programa onde o usuário digite uma expressão qualquer que use parênteses. Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e fechados na ordem correta.
+84. Faça um programa que leia nome e peso de várias pessoas, guardando tudo em uma lista. No final, mostre: 
+    1. Quantas pessoas foram cadastradas. 
+    2. Uma listagem com as pessoas mais pesadas
+    3. Uma listagem com as pessoas mais leves.
+85. Crie um programa onde o usuário possa digitar sete valores numéricos e cadastre-os em uma lista única que mantenha separados os valores pares e ímpares. No final, mostre os valores pares e ímpares em ordem crescente.
