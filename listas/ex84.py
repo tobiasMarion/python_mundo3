@@ -1,6 +1,6 @@
 # cabecalho
 print('=-' * 20)
-print(f'{"Desafio 78":^40}')
+print(f'{"Desafio 84":^40}')
 print('-' * 40)
 
 lista = []
@@ -14,7 +14,7 @@ while True:
     dado.clear()
 
     while True:
-        dnv = input('Quer digitar outro número? [S/N]').lower()
+        dnv = input('Quer cadastrar outro usuário? [S/N] ').lower()
         if dnv in 'sn':
             break
     if dnv == 'n': 
